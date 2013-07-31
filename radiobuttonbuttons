@@ -41,13 +41,13 @@
 <body>
 	<div class="radio-button-tabs">
 		<input type="radio" id="tab-1" name="radioname" value="all" checked>
-		<label for="tab-1">All</label>
+		<label for="tab-1">One</label>
 
 		<input type="radio" id="tab-2" name="radioname"value="false">
-		<label for="tab-2">Open</label>
+		<label for="tab-2">Two</label>
 
 		<input type="radio" id="tab-3" name="radioname" value="true">
-		<label for="tab-3">Archived</label> 
+		<label for="tab-3">Three</label> 
 	</div>
 </body>
 <html>
